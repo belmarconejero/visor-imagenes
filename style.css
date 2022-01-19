@@ -1,0 +1,23 @@
+html,body, .contenedor, .escena{
+    height: 100%;
+}
+.container{
+    background-color: #333;
+}
+.row{
+    text-align: center;
+    color: rgb(50, 39, 209);
+    font-family:sans-serif;  
+}
+h1{
+    text-align: center;
+    color:aquamarine;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.container img{
+    box-shadow: 5px 5px 12px whitesmoke;
+    object-fit: cover;
+    text-align: center;
+}
+
+
